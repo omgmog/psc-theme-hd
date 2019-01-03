@@ -23,6 +23,10 @@ mount -o bind /media/theme/font/ /usr/sony/share/data/font/
 
 Then grab the latest release of this theme from [here](https://github.com/omgmog/psc-theme-hd/releases) and extract it to your USB stick so that you have a `theme `directory containing all of the `images`, `font` and `sounds` directories.
 
+![](https://i.imgur.com/S6hh7XE.png)
+
+![](https://i.imgur.com/2OOywMR.png)
+
 ### Examples
 
 Before:
